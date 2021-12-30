@@ -1,6 +1,6 @@
 # Responsive-FAQ
 A very easy FAO template for you're website.
 
-##Preview:
+- Preview:
 
 ![preview](./img/faq.gif)
