@@ -7,8 +7,8 @@ A very easy FAO template for you're website.
 
 - Add more section:
 copy this and paste it in the last div
-<code>
-  
+```
+
             <div class="faq">
                 <div class="question">
                     <h3>What does waifu mean?</h3>
@@ -22,4 +22,4 @@ copy this and paste it in the last div
                     </p>
                 </div>
             </div>
- </code>
+```            
